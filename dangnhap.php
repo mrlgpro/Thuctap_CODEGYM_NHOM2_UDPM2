@@ -52,7 +52,7 @@
 				if($row['account']=='admin@admin.com')
 				{
 					$_SESSION['account']='admin@admin.com'; //echo "dang nhap khong";
-					header('location:webadmin.php');	
+					header('location:dangnhap.php');	
 				}
 				else
 				{
