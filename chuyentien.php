@@ -5,9 +5,9 @@ session_start();
 <html>
 <head>
 <title>Chuyển tiền</title>
-<script src="js/jquery.min.js"></script>
+<script src="jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="style.css" rel="stylesheet" type="text/css" media="all"/>
 <!-- for-mobile-apps -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
