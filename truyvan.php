@@ -18,7 +18,7 @@
 	margin-left: 0px;
 	grid-gap: 10px;
 	padding: 10px;
-	background-image: url(images/banner3.jpg);
+	background-image: url(banner3.jpg);
 	height: 100%;
 }
 .grid-container > div
